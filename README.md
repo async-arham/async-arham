@@ -25,7 +25,7 @@
 
 <br>
 
-<h3 align="center" style="color: #050c21; font-family: Syne;">Certified to Build, Secure & Automate 🏆</h3>
+<!-- <h3 align="center" style="color: #050c21; font-family: Syne;">Certified to Build, Secure & Automate 🏆</h3> -->
 
 <p align="center">
   <i>Industry-recognized credentials from Google, verified on Credly</i>
