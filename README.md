@@ -8,7 +8,7 @@
 
 <br>
 
-<h3 align="center" style="color: #050c21; font-family: Syne;">Simply Proficient in 👑</h3>
+<h3 align="center" style="color: #050c21; font-family: Syne;">Tech Stack 👑</h3>
 
 <div align="center" style="width: 80%; max-width: 900px; display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=react,firebase,supabase,html,css,tailwind,git,github" style="margin: 5px;" />
